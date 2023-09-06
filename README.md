@@ -1,3 +1,3 @@
 # My_Porfolio
 
-[Portfolio](https://github.com/MadhavaReddy-Bijivemula/My_Porfolio/)
+[Click Here](https://madhavareddy-bijivemula.github.io/My_Porfolio/)
